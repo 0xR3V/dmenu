@@ -26,7 +26,7 @@ sudo make clean install
 - Mouse Support.
 
 # Support Me and This Project
-`Monero`: 87EiKr8jgQ7BgbjAPPTAQddvJLTnyGNrQeujQ1HUetHGW1s9v9KgJL6hQ4d1Yp4wz568ugfqWWvgJBkCtmNBSWWe28HLzs2
+`Monero`: `87EiKr8jgQ7BgbjAPPTAQddvJLTnyGNrQeujQ1HUetHGW1s9v9KgJL6hQ4d1Yp4wz568ugfqWWvgJBkCtmNBSWWe28HLzs2`
 
 
 
